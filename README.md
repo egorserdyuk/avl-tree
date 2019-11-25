@@ -1,2 +1,2 @@
-# bin-tree
- Binary tree homework on C++
+# avl-tree
+ AVL tree homework on C++
